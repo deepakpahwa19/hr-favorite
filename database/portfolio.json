@@ -63,8 +63,27 @@
     ]
   },
   "projectsInfo": {
-    "displayName": "Timeline",
+    "displayName": "Experience",
     "projects": [
+      {
+        "timeline": "Oct'23 - Jan'25",
+        "projectName": "ABCD TESTING",
+        "headline1": "I worked here as a SE",
+        "headline2": "I've managed the team of 5 members",
+        "designation": "Lead Software Engineer",
+        "link": {
+          "linkText": "My Link",
+          "linkUrl": "abcd"
+        },
+        "skills": "ReactJS, TypeScript, Redux, PWA",
+        "companyName": "Intuit",
+        "images": [
+          {
+            "fileName": "ProjectManagement.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/deepakpahwa19/hr-favorite/master/images/ProjectManagement.jpg"
+          }
+        ]
+      },
       {
         "timeline": "Jul'04-Jun'07",
         "projectName": "Intuit Quickbooks Online",
