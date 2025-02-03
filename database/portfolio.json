@@ -55,6 +55,10 @@
       {
         "name": "NodeJS",
         "rating": 7
+      },
+      {
+        "name": "ReactJS",
+        "rating": 4.5
       }
     ]
   },
