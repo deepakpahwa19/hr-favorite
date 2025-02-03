@@ -73,7 +73,7 @@
         "designation": "Lead Software Engineer",
         "link": {
           "linkText": "My Link",
-          "linkUrl": "yash-chawla.vercel.app"
+          "linkUrl": "https://yash-chawla.vercel.app/"
         },
         "skills": "ReactJS, TypeScript, Redux, PWA",
         "companyName": "Intuit",
@@ -82,7 +82,8 @@
             "fileName": "ProjectManagement.jpg",
             "fileUrl": "https://raw.githubusercontent.com/deepakpahwa19/hr-favorite/master/images/ProjectManagement.jpg"
           }
-        ]
+        ],
+        "rank": "2"
       },
       {
         "timeline": "Jul'04-Jun'07",
