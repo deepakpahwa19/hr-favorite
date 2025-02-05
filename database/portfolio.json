@@ -47,18 +47,6 @@
       {
         "name": "ReactJS",
         "rating": 8.5
-      },
-      {
-        "name": "Shadcn/UI",
-        "rating": 8.5
-      },
-      {
-        "name": "NodeJS",
-        "rating": 7
-      },
-      {
-        "name": "ReactJS",
-        "rating": 4.5
       }
     ]
   },
